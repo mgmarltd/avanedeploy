@@ -67,12 +67,10 @@
                                 <ul class="nav navbar-nav navbar-right">
                                     <li class="active"><a href="#banner">Home</a></li>
                                     <li><a href="#about">About us</a></li>
-                                    <li><a href="#menu">Menu</a></li>
-                                    <li><a href="#our_team">Team</a></li>
-                                    <li><a href="#gallery">Gallery</a></li>
+                                    <li><a href="#menu">What do we do</a></li>
                                     <li><a href="#blog">Blog</a></li>
-                                    <li><a href="#pricing">pricing</a></li>
-                                    <li><a href="#reservation">Reservaion</a></li>
+                                    <li><a href="#gallery">Gallery</a></li>
+                                
                                     <li><a href="#footer">Contact us</a></li>
                                 </ul>
                             </div>
